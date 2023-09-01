@@ -57,4 +57,8 @@
         <td>13</td>
         <td>Create Angular App which shares the content in between parent and child components</td>
     </tr>
+    <tr>
+        <td>14</td>
+        <td>Create Angular App for Navigation</td>
+    </tr>
 </table>
